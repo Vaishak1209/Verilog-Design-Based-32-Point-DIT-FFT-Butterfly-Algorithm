@@ -1,0 +1,1 @@
+The project contains an efficient modular architecture with a Control Unit, MAC Unit, and dual clock domains (20MHz, 100MHz). The algorithm is implemented through five pipelined stages, integrating a VIO (Virtual Input-Output) core to debug and validate the real and imaginary outputs stored in block RAM.
